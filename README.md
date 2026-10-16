@@ -1,2 +1,2 @@
-# compound-extremes-indices
-Code for computing compound-event indices.
+# extremes-and-multi-hazards
+
